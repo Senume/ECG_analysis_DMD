@@ -58,7 +58,7 @@ To run the code smooth, make sure to install these packages
 
 - Signal_Analysis_Class
 
-## **Contact**
+## **CITATION AND REFERENCE**
 
 If you use any of resources from the paper in your own research, please cite the [paper](https://ieeexplore.ieee.org/abstract/document/9626454) using the following citation:
 
