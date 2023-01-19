@@ -16,7 +16,7 @@ The repository is organized as follows:
     1. Beats
     2. Frames
 
-To run the code, please make sure you have the necessary dependencies installed, which are listed [here](##-**DEPENDENCIES** )
+To run the code, please make sure you have the necessary dependencies installed, which are listed [here](#-**DEPENDENCIES** )
 
 If you use any of resources from the paper in your own research, please cite the paper using the following citation:
 
